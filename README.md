@@ -2,7 +2,7 @@
 ClienThings is a project to predict more things client-side.
 For example, if you eat food, the animation only ends when the server indicates it will.
 This mod fixes that and therefore compensates for the ping.
-You can use ClienThings on your server to find out if a player is using the same mod.
+You can use ClienThings on your server to find out if a player is using the mod.
 
 **Versions for 1.21-1.21.1 are deprecated.**
 
@@ -19,6 +19,7 @@ Currently this mod compensates for :
 - Wind charge
 
 In development :
+- Inventory
 - Jukebox
 - Bottle o' Enchanting
 - Experience
